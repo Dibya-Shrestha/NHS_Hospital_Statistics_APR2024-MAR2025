@@ -21,10 +21,3 @@ This project visualises insights from the NHS Provisional Monthly Hospital Episo
 ## 📁 Files Included
 - Excel workbook with embedded dashboard
 - Pivot tables and raw data from NHS HES March 2025
-
-## 💡 Purpose
-To explore patient care trends across age groups and clinical specialties, supporting better health data storytelling and decision-making.
-
----
-
-*For educational and analytical use. This is not an official NHS product.*
